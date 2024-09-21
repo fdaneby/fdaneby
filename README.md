@@ -1,0 +1,19 @@
+Hello,
+
+my name is Fredrik Daneby and I am a newly hatched Master of Science in Microbiology.
+
+Approximately one hundred years ago, I was coding CGI-scripts and import scripts (Perl, SQL via ODBC drivers) for E-commerce applications. As frontend,
+I created webpages (HTML, CSS, JavaScript, PHP, ASP). I also studied computer science at KTH in Stockholm. Howevever,
+
+- 👋 Hi, I’m @fdaneby 
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...  
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+fdaneby/fdaneby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
