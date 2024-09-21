@@ -8,17 +8,8 @@ working in our family business (in construction) before I finished the education
 and started studying microbiology. As it turned out, I had much use of my programming skills in microbiology as the field of bioinformatics is really taking off.
 
 I have recently been creating scripts in Python, R and Perl to investigate bacterial DNA sequences. During my MSc project, I realized many bioinformatic tools and also script languages have 
-caveats that need to be avoided. This has inspired me to explore the possibilites of writing my own modules/packages/addons.
-
-I am currently working with Python, Perl and C#
-
-- 👋 Hi, I’m @fdaneby 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+caveats that need to be avoided. In some cases this has inspired me to explore the possibilites of writing my own modules/packages/addons, in other cases this has inspired me to drop interpreted 
+script languages completely and move to C++ or C#. In any case, I aim to gather my scripts/programs here, though I'm currently unsure what this will lead to.
 
 <!---
 fdaneby/fdaneby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
