@@ -1,6 +1,6 @@
 Hello,
 
-my name is Fredrik Daneby and I am a newly hatched Master of Science in Microbiology.
+my name is Fredrik Daneby. I have a MSc degree in Microbiology from Stockholm University (2024), and am currently working as a laboratory engineer at the Mycobacterial laboratory at Karolinska Universitetssjukhuset in Solna, Sweden.
 
 Approximately one hundred years ago, I was coding CGI-scripts and flatfile import scripts (Perl, SQL via ODBC drivers) for early (~2000) E-commerce applications. As frontend,
 I created webpages (HTML, CSS, JavaScript, PHP, ASP). I also studied computer science at KTH in Stockholm. Howevever, I soon felt I needed to do other things in my life and started
